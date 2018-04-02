@@ -1,0 +1,36 @@
+git commandes
+
+Wikipedia :
+
+"
+git init /
+			nouveau dépôt
+
+git clone / 
+			clone un dépôt distant
+
+git add /
+			ajoute de nouveaux objets blobs dans la base des objets pour chaque fichier modifié depuis le dernier commit. Les objets précédents restent inchangés
+
+git commit /
+			intègre la somme de contrôle SHA-1 d'un objet tree et les sommes de contrôle des objets commits parents pour créer un nouvel objet commit
+
+git branch /
+			liste les branches
+
+git merge /
+			fusionne une branche dans une autre
+
+git log /
+			affiche la liste des commits effectués sur une branche
+
+git push /
+			publie les nouvelles révisions sur le remote. (La commande prend différents paramètres)
+
+git pull /
+			récupère les dernières modifications distantes du projet (depuis le Remote) et les fusionner dans la branche courante
+
+git stash /
+			stocke de côté un état non commité afin d’effectuer d’autres tâches
+
+"

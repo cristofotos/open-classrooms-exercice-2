@@ -1,0 +1,3 @@
+Quelques rappels sur la console
+pwd : répertoire courant
+ls : liste des fichiers et répertoires
