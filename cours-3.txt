@@ -1,0 +1,10 @@
+git 
+
+un commit : 
+c'est une série de modifications sur un groupe de fichiers avec un message explicatif
+
+git add
+
+git commit -m
+
+git commit -a -m
